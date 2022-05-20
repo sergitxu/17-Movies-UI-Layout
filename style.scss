@@ -101,6 +101,7 @@ main {
 
         &:hover .movie__overview {
             transform: translateY(0);
+            overflow: scroll;
         }
     }
 }

@@ -131,5 +131,6 @@ main .movie__overview {
 main .movie:hover .movie__overview {
   -webkit-transform: translateY(0);
           transform: translateY(0);
+  overflow: scroll;
 }
 /*# sourceMappingURL=style.css.map */
